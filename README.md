@@ -1,4 +1,4 @@
-# Yellow Cat Skill｜把宠物照片变成桌面伙伴 🐈
+# Photo to Desktop Pet｜照片变桌面宠物 🐈
 
 给 Codex **一张宠物正面照＋一个名字**，让它制作动画、检查并修正问题。**你确认完整动态预览后，才会创建或更新宠物、设为当前伙伴。** 不需要写代码。
 
@@ -6,7 +6,7 @@
 
 1. 在 Codex 里发送：
 
-   > 请安装 https://github.com/paolafterwork/yellow-cat-skill 仓库中的 skills/photo-to-desktop-pet，并检查所需的 Pets 和图像生成功能。
+   > 请安装 https://github.com/paolafterwork/photo-to-desktop-pet 仓库中的 skills/photo-to-desktop-pet，并检查所需的 Pets 和图像生成功能。
 
 2. 安装完成后，上传清晰的宠物正面照，再发送：
 
